@@ -6,39 +6,39 @@
 1. Навигация с [главной страницы](https://netology.ru/) на [страницу формы](https://netology.ru/programs/qa) заявки на
    курс "Тестировщик" через [каталог курсов раздел "Программирование"](https://netology.ru/development) с проверкой
    фильтрации по курсам
-   ![png1.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng1.png)
-   ![png2.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng2.png)
+   https://monosnap.com/file/n8xkYPOQNhPRNAyl89zWimEun9Ly59
+   https://monosnap.com/file/AVPM9ZaZ1u3wDdR4wQ4VgYJoF8mgqQ
 
 2. Навигация с [главной страницы](https://netology.ru/) на
    страницу [каталога курсов раздела "Программирование"](https://netology.ru/development)
    через [раздел "Направления обучения"](https://netology.ru/#/directions)
-   ![png3.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng3.png)
-   ![png4.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng4.png)
+   https://monosnap.com/file/K7zZKev0sqpFeF9CCJw0A7M7tW70Pp
+   https://monosnap.com/file/J4aNCApKkeYTatBdOsEtvvRdBezO8H
 
 3. Навигация с футера [главной страницы](https://netology.ru/) на
    страницу ["Каталог курсов"](https://netology.ru/navigation)
-   ![png5.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng5.png)
+   https://monosnap.com/file/CwoY3vVQamTa8OIKLKv5hciW29aYii
 
 4. Навигация с футера [главной страницы](https://netology.ru/) на
    страницу ["Популярные курсы"](https://netology.ru/popular)
-   ![png7.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng7.png)
+   https://monosnap.com/file/MKtMQiijGRMVYfUJ9c1NraT4KWILc6
 
 5. Навигация с футера [главной страницы](https://netology.ru/) на
    страницу [каталога курсов раздела "Программирование"](https://netology.ru/development)
-   ![png8.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng8.png)
+   https://monosnap.com/file/gAp6l5uzXRirfJOfAEulgz3MI6HbbC
 
 6. Навигация с [главной страницы](https://netology.ru/) на [страницу формы](https://netology.ru/programs/qa) заявки на
    курс "Тестировщик" через каталог курсов с помощью поисковика.
-   ![png9.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng9.png)
+   https://monosnap.com/file/q33Cx3vXDCFYM9jnRWDilANSt9tOVk
 
 7. Переход сверху [страницы курса "Тестировщик ПО"](https://netology.ru/programs/qa#/)
    к [форме записи](https://netology.ru/programs/qa#/order) на курс
-   ![png10.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng10.png)
+   https://monosnap.com/file/kFWR7hZOIfJQrDQrZ5LIp72zaRMKTJ
 
 8. Проверка появление кнопки "Записаться" и перехода по ней с
    header [страницы курса "Тестировщик ПО"](https://netology.ru/programs/qa#/)
    к [форме записи](https://netology.ru/programs/qa#/order) на курс
-   ![png11.png](..%2F..%2FUsers%2F%CA%F0%E8%F1%F2%E8%ED%E0%2FDesktop%2Fpng11.png)
+   https://monosnap.com/file/WVzLsDpt4Dbr2KJ5Nf20cXDktADHVW
 
 **Сценарии тестирования UI:**
 
